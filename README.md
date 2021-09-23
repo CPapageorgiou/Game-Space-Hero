@@ -1,5 +1,5 @@
 # Space Hero
-Game (2d) developed in Unity in the context of a module at university. Worked in a team with eight membes following the Scrum framework, having the role of a developer. 
+Game (2d) developed in Unity in the context of a module at university. Worked in a team with eight membes following the Scrum framework, having the role of a developer. <strong> The game can be played at [Space Hero](https://cpapageorgiou.github.io/Game-Space-Hero/). </strong>
 
 The game is located in space with the player being an astronaut. It consists of five scenes:
 <ul>
